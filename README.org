@@ -1,0 +1,40 @@
+
+# hello-processing
+
+A Quil sketch designed to ... well, that part is up to you.
+
+## Usage
+
+LightTable - open `core.clj` and press `Ctrl+Shift+Enter` to evaluate the file.
+
+Emacs - run cider, open `core.clj` and press `C-c C-k` to evaluate the file.
+
+REPL - run `(require 'hello-processing.core)`.
+
+## License
+
+Copyright © 2016 FIXME
+
+Distributed under the Eclipse Public License either version 1.0 or (at
+your option) any later version.
+* hello-processing
+  Processing programming with Quil(Processing) and ControlP5(External Processing Library)
+* Usage 
+** From jar
+   Open this [[https://drive.google.com/open?id=1EqhLcI24k_p2V8lIaMKhFplbXTsNs4K6][link]] and Download its' jar-file.
+   Run this code in your shell ...
+   #+BEGIN_SRC text
+   [path/to/your-file/]$ java -jar hello-processing-0.1.0-SNAPSHOT-standalone.jar 
+   #+END_SRC
+** From lein 
+   Cloning this project. And do =lein run=.
+
+* License
+
+  Copyright (c) 2018 Mokke Meguru
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
