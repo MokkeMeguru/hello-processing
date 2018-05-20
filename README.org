@@ -8,6 +8,7 @@
    [path/to/your-file/]$ java -jar hello-processing-0.1.0-SNAPSHOT-standalone.jar 
    #+END_SRC
 ** From lein 
+   [[https://leiningen.org/][How to Install Leiningen]]
    Cloning this project. And do =lein run=.
 
 * License
